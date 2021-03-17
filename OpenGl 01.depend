@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615975733 source:c:\users\dominik\documents\codeblocks\opengl 01\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+
